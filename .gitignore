@@ -1,0 +1,29 @@
+# ===============================
+# OS & System Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDE & Code Editor Configs
+# ===============================
+.vscode/
+.idea/
+
+# ===============================
+# Dependencies & Builds
+# ===============================
+build/
+dist/
+node_modules/
+output/
+*.exe
+
+# ===============================
+# Secrets & Local Settings
+# ===============================
+.env
+config.txt
+temp*
+**configs/local.py
+**/configs
